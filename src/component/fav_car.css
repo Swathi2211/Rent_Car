@@ -1,0 +1,54 @@
+
+.car{
+    background-color: rgb(229, 227, 227);
+    height: 300px;
+    width:300px;
+    border-radius: 100%;
+    text-align: center;
+    padding:100px;
+    margin-left: -60px;
+}
+
+
+.car p{
+    font-size: 20px;
+    padding: 20px;
+}
+
+.car button{
+    padding:10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: rgb(229, 65, 65);
+    color: white;
+    border: none;
+    
+}
+
+.cards{
+    display: flex;
+    justify-content: center;
+}
+
+.car h2{
+    margin-top:20px;
+}
+
+#fmain .p1{
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    margin-left:100px;
+
+}
+
+#fmain .h{
+    margin-left:100px;
+    font-weight: bolder;
+    font-size:xx-large;
+}
+
+#fmain{
+    margin-top:300px;
+    margin-left: 60px;
+}

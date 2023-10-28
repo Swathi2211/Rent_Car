@@ -1,0 +1,19 @@
+
+
+
+#home { 
+    background: url(../images/main_page/main.jpg) no-repeat center/cover;
+    position: relative;
+    height: 659.61px;
+    width: 1046.29px;
+}
+
+.rent_car {
+    background-color: rgb(28, 28, 109);
+    height: 659.61px;
+    width: 418.51px;
+}
+
+#main_flex{
+    display : flex;
+}

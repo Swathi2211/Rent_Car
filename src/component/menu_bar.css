@@ -1,0 +1,104 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.menu_btn{
+    margin : 30px;
+}
+
+.menu_btn div {
+    width: 35px;
+    height: 4px;
+    background-color: rgb(255, 255, 255);
+    margin: 6px;
+
+}
+
+#last{
+    display: flex;
+    margin-left : 1130px;
+}
+
+
+.menu{
+    
+    z-index:1;
+    position : absolute;
+    display: flex;
+}
+
+#first p{
+    font-size: 25px;
+    font-weight: bolder;
+    margin : 28px;
+}
+
+#last p{
+    font-size: 20px;
+    margin : 30px;
+    margin : 30px;
+    color: white;
+    margin-right : 0px;
+}
+.left_arrow {
+    background-color: rgb(28, 28, 109);
+    padding: 25px;
+    border:none;
+
+}
+
+.arrow {
+    border: solid rgb(255, 255, 255);
+    border-width: 0 4px 4px 0;
+    display: inline-block;
+    padding: 3px;
+}
+
+.right {
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+  }
+  
+  .left {
+    transform: rotate(135deg);
+    -webkit-transform: rotate(135deg);
+  }
+
+.but1{
+    position : absolute;
+    margin-top : 100px;
+    margin-left : 1010px;
+}
+
+.but2{
+    position : absolute;
+    margin-top : 500px;
+    margin-left : 1010px;
+}
+
+.content{
+    position: absolute; 
+    margin-top: 150px;
+    margin-left: 1120px; 
+}
+
+.content p{
+    font-size: 60px;
+    font-weight: bolder;
+    color:white;
+}
+
+
+.content button{
+    margin-top: 50px;
+    background-color: rgb(245, 56, 56);
+    padding-top: 15px;
+    padding-bottom : 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+    color: rgb(255, 254, 254);
+    border: none;
+    
+}
+

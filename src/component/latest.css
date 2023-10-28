@@ -1,0 +1,51 @@
+.latbox {
+    height: 550px;
+    width: 420px;
+    box-shadow: 1px 1px 8px 8px rgb(230, 228, 228);
+}
+
+.latbox .p1 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.latbox p {
+    font-size: 18px;
+}
+
+#latest_main p {
+    font-size: 18px;
+}
+
+#latest_main {
+    margin-top: 100px;
+}
+
+#write {
+    margin-left: 100px;
+}
+
+.p2 {
+    margin-bottom: 20px;
+    margin: 10px;
+}
+
+.latbox {
+    padding-top: 1px;
+    margin: 20px;
+}
+
+.latbox img {
+    margin-top: 15px;
+}
+
+#lat {
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+}
+
+.latbox h3 {
+    margin: 10px;
+    margin-bottom: 20px;
+}

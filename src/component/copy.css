@@ -1,0 +1,36 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+
+#copy{
+    margin-top:10px;
+    
+}
+
+.black{
+    background: black;
+    width:100%;
+    height:350px;
+
+}
+
+.black p{
+    color:white;
+    font-size:18px;
+    padding-top:10px;
+    padding-left:10px;
+}
+
+.bluecopy{
+    background: rgb(13, 13, 115);
+    width:100%;
+    height:50px;
+}
+
+.bluecopy p{
+    color:white;
+    font-size:20px;
+    text-align: center;
+    padding-top:10px;
+}

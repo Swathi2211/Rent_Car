@@ -1,0 +1,45 @@
+#overlap_start {
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 2px 20px rgb(159, 158, 158);
+    width: 710px;
+    padding: 30px;
+    background-color: white;
+}
+
+#overlap_start div label {
+    font-size: larger;
+    color: grey;
+}
+
+#overlap_start div input {
+    font-size: larger;
+    padding: 5px;
+    margin: 10px;
+    margin-left: 0px;
+}
+
+#btnOverlap {
+    background-color: rgb(28, 28, 109);
+    color: white;
+    padding: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 17px;
+    margin-left: 20px;
+}
+
+.overlap {
+    display: flex;
+    position:absolute;
+    z-index:1;
+    margin-left: 150px;
+    margin-top: -60px;
+
+    
+}
+
+#overlap_end {
+    margin-top: 30px;
+}
